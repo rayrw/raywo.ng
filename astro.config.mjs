@@ -10,7 +10,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://raywo.ng',
+	site: 'https://rayrw.dev',
 	integrations: [mdx(), sitemap(), ogImage()],
 
 	markdown: {

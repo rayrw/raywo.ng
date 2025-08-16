@@ -108,7 +108,7 @@ async function generateOgImage(
 								textAlign: 'center',
 								opacity: '0.9',
 							},
-							children: 'Ray Wong - https://raywo.ng',
+							children: 'Ray Wong - https://rayrw.dev',
 						},
 					},
 				],
